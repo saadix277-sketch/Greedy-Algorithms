@@ -1,0 +1,7 @@
+Job-Sequencing-Greedy/
+│
+├── job_sequencing.py
+├── README.md
+├── LICENSE
+├── .gitignore
+└── requirements.txt
